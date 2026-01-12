@@ -1,4 +1,7 @@
 # Cybersecurity Learning Repository
+
+<img width="983" height="556" alt="image" src="https://github.com/user-attachments/assets/fcf27c28-6c1f-4cf4-bae8-d915403d66ff" />
+
 ## Español
 
 Este repositorio recoge mi proceso de aprendizaje en ciberseguridad, con prácticas, notas y pequeños proyectos realizados mientras estudio fundamentos de seguridad informática.
