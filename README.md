@@ -1,5 +1,5 @@
 # Cybersecurity Learning Repository
-## 🇪🇸 Español
+## Español
 
 Este repositorio recoge mi proceso de aprendizaje en ciberseguridad, con prácticas, notas y pequeños proyectos realizados mientras estudio fundamentos de seguridad informática.
 
@@ -36,7 +36,7 @@ Todo el contenido es educativo y se ha realizado en entornos controlados (labs y
 ---
 
 
-## 🇬🇧 English
+## English
 This repository documents my learning journey in cybersecurity, including hands-on labs, notes, and small projects developed while studying information security fundamentals.
 
 I am currently training in cybersecurity after completing ASIR, and this repository serves as a practical portfolio to showcase my progress and skills.
