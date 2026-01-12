@@ -18,7 +18,7 @@ Prácticas y laboratorios realizados en la plataforma TryHackMe, organizados por
 - Conceptos ofensivos y defensivos
 
 Ruta actual:
-- `tryhackme/pre-security`
+- `tryhackme`
 
 ### Scripts
 Pequeños scripts desarrollados con fines educativos para automatizar tareas básicas relacionadas con redes y seguridad.
@@ -54,7 +54,7 @@ Hands-on labs and exercises completed on the TryHackMe platform, organized by le
 - Offensive and defensive security concepts
 
 Current path:
-- `tryhackme/pre-security`
+- `tryhackme`
 
 ### Scripts
 Small educational scripts created to automate basic networking and security-related tasks.
