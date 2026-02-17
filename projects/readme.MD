@@ -1,4 +1,4 @@
-# 🗂️ Projects / Proyectos
+# Projects / Proyectos
 
 ## Español
 
