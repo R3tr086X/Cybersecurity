@@ -2,5 +2,5 @@
 
 This project is available in two languages:
 
-- 🇪🇸 [Versión en Español](README_ES.md)
-- 🇬🇧 [English Version](README_EN.md)
+- 🇪🇸 [Versión en Español](spanish_version.md)
+- 🇬🇧 [English Version](english_version.md)
